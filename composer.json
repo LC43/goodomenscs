@@ -1,0 +1,9 @@
+{
+    "name": "goodomens/coding-standards",
+    "description": "Coding Standards enforced in Good Omens creations",
+    "require" : {
+        "php" : ">=7.2.0,<8.0.0-dev",
+        "squizlabs/php_codesniffer" : "^3.4"
+    },
+    "type" : "phpcodesniffer-standard"
+}
